@@ -82,6 +82,7 @@ libcompiler_rt_common_SRC_FILES := \
   lib/builtins/fixxfti.c \
   lib/builtins/floatdidf.c \
   lib/builtins/floatdisf.c \
+  lib/builtins/floatditf.c \
   lib/builtins/floatdixf.c \
   lib/builtins/floatsidf.c \
   lib/builtins/floatsisf.c \
